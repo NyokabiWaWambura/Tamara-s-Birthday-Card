@@ -76,28 +76,28 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/cover.jpg");
+    background-image: url("cover.jpg");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.webp");
+    background-image: url("happy.webp");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/love.webp");
+    background-image: url("love.webp");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/artist.webp");
+    background-image: url("artist.webp");
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/riri.webp");
+    background-image: url("riri.webp");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.webp");
+    background-image: url("cheers.webp");
 }
 
 #footer {
@@ -109,15 +109,3 @@ h1, h2, h3, h4, p {
 a {
     color: white;
 }
-
-/* 
-Add the footer paragraph according to the design. 
-Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
-
-Link: 
-https://scrimba.com/learn/htmlandcss
-
-Text:
-Want to create your own Birthday GIFt site? Take this HTML & CSS course.
-*/
